@@ -1,8 +1,7 @@
 # HW2
 ## 甘特圖
 
-![gantt](gantt.png)
-![]
+
 ```mermaid
 gantt
     title A Gantt Diagram
