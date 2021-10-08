@@ -1,6 +1,6 @@
 # HW2
 ## 甘特圖
-
+![gantt](gantt.png)
 
 ```mermaid
 gantt
@@ -20,6 +20,8 @@ gantt
 ```   
 ---
 
+## PERT/CPM圖 關鍵路徑
+![PERTCPM](PERTCPM.png)
 ```graphviz
 digraph {
 	node[shape=record];
