@@ -21,7 +21,7 @@ gantt
 ---
 
 ## PERT/CPM圖 關鍵路徑
-![PERTCPM](PERTCPM.png)
+
 ```graphviz
 digraph {
 	node[shape=record];
